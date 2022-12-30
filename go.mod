@@ -157,9 +157,9 @@ require (
 // deprecated Firestore Batch API is replaced. Updating causes
 // the linter to fail due to deprecation warnings.
 require (
-	cloud.google.com/go/firestore v1.6.1
-	cloud.google.com/go/iam v0.8.0
-	google.golang.org/genproto v0.0.0-20221201164419-0e50fba7f41c
+	cloud.google.com/go/firestore v1.9.0
+	cloud.google.com/go/iam v0.9.0
+	google.golang.org/genproto v0.0.0-20221205194025-8222ab48f5fc
 )
 
 // DO NOT UPDATE crypto beyond v0.2.0, the commit below breaks compatibility
@@ -174,9 +174,6 @@ require (
 	github.com/mailgun/metrics v0.0.0-20150124003306-2b3c4565aafd // indirect
 	github.com/mailgun/minheap v0.0.0-20170619185613-3dbe6c6bf55f // indirect
 )
-
-// Do not remove. It breaks github.com/gravitational/go-oidc.
-require github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f // indirect
 
 require (
 	cloud.google.com/go v0.107.0 // indirect
