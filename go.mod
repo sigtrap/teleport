@@ -126,7 +126,7 @@ require (
 	github.com/vulcand/predicate v1.2.0 // replaced
 	github.com/xitongsys/parquet-go v1.6.2
 	github.com/xitongsys/parquet-go-source v0.0.0-20230312005205-fbbcdea5f512
-	go.etcd.io/etcd/api/v3 v3.5.7
+	go.etcd.io/etcd/api/v3 v3.5.8
 	go.etcd.io/etcd/client/v3 v3.5.7
 	go.mongodb.org/mongo-driver v1.10.6
 	go.mozilla.org/pkcs7 v0.0.0-20210826202110-33d05740a352
