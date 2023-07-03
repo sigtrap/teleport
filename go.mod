@@ -156,7 +156,7 @@ require (
 	go.opentelemetry.io/proto/otlp v0.20.0
 	golang.org/x/crypto v0.10.0 // replaced
 	golang.org/x/exp v0.0.0-20230213192124-5e25df0256eb
-	golang.org/x/mod v0.10.0
+	golang.org/x/mod v0.11.0
 	golang.org/x/net v0.11.0
 	golang.org/x/oauth2 v0.8.0
 	golang.org/x/sync v0.2.0
