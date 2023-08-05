@@ -45,7 +45,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.21.1
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.109.1
 	github.com/aws/aws-sdk-go-v2/service/ecs v1.29.1
-	github.com/aws/aws-sdk-go-v2/service/glue v1.54.0
+	github.com/aws/aws-sdk-go-v2/service/glue v1.60.0
 	github.com/aws/aws-sdk-go-v2/service/iam v1.22.1
 	github.com/aws/aws-sdk-go-v2/service/rds v1.48.1
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.38.1
