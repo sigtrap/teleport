@@ -84,7 +84,7 @@ require (
 	github.com/google/go-attestation v0.4.4-0.20230613144338-a9b6eb1eb888
 	github.com/google/go-cmp v0.5.9
 	github.com/google/go-querystring v1.1.0
-	github.com/google/go-tpm-tools v0.3.13-0.20230620182252-4639ecce2aba
+	github.com/google/go-tpm-tools v0.4.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/google/uuid v1.3.0
 	github.com/googleapis/gax-go/v2 v2.12.0
