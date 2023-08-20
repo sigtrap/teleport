@@ -9,7 +9,7 @@ require (
 	cloud.google.com/go/firestore v1.12.0
 	cloud.google.com/go/iam v1.1.2
 	cloud.google.com/go/kms v1.15.1
-	cloud.google.com/go/storage v1.31.0
+	cloud.google.com/go/storage v1.32.0
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.7.0
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.3.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/compute/armcompute/v3 v3.0.1
