@@ -36,11 +36,11 @@ require (
 	github.com/armon/go-radix v1.0.0
 	github.com/aws/aws-sdk-go v1.44.328
 	github.com/aws/aws-sdk-go-v2 v1.21.0
-	github.com/aws/aws-sdk-go-v2/config v1.18.36
+	github.com/aws/aws-sdk-go-v2/config v1.18.37
 	github.com/aws/aws-sdk-go-v2/credentials v1.13.35
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.10.39
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.13.11
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.11.80
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.11.81
 	github.com/aws/aws-sdk-go-v2/service/athena v1.31.5
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.21.5
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.114.0
