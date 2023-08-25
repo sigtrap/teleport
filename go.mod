@@ -41,14 +41,14 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.10.39
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.13.11
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.11.81
-	github.com/aws/aws-sdk-go-v2/service/athena v1.31.5
+	github.com/aws/aws-sdk-go-v2/service/athena v1.31.6
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.21.5
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.114.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.115.0
 	github.com/aws/aws-sdk-go-v2/service/ec2instanceconnect v1.16.5
 	github.com/aws/aws-sdk-go-v2/service/ecs v1.29.6
-	github.com/aws/aws-sdk-go-v2/service/glue v1.61.3
+	github.com/aws/aws-sdk-go-v2/service/glue v1.62.0
 	github.com/aws/aws-sdk-go-v2/service/iam v1.22.5
-	github.com/aws/aws-sdk-go-v2/service/rds v1.52.0
+	github.com/aws/aws-sdk-go-v2/service/rds v1.53.0
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.38.5
 	github.com/aws/aws-sdk-go-v2/service/sns v1.21.5
 	github.com/aws/aws-sdk-go-v2/service/sqs v1.24.5
@@ -194,7 +194,7 @@ require (
 	k8s.io/component-base v0.28.1
 	k8s.io/klog/v2 v2.100.1
 	k8s.io/kubectl v0.28.1
-	sigs.k8s.io/controller-runtime v0.15.2
+	sigs.k8s.io/controller-runtime v0.16.0
 	sigs.k8s.io/controller-tools v0.13.0
 	sigs.k8s.io/yaml v1.3.0
 	software.sslmate.com/src/go-pkcs12 v0.2.1
@@ -399,7 +399,7 @@ require (
 	go.uber.org/zap v1.25.0 // indirect
 	golang.org/x/tools v0.12.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
-	gomodules.xyz/jsonpatch/v2 v2.3.0 // indirect
+	gomodules.xyz/jsonpatch/v2 v2.4.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20230803162519-f966b187b2e5 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20230803162519-f966b187b2e5 // indirect
