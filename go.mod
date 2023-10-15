@@ -27,7 +27,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.1.0
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1
 	github.com/ClickHouse/ch-go v0.58.2
-	github.com/ClickHouse/clickhouse-go/v2 v2.14.2
+	github.com/ClickHouse/clickhouse-go/v2 v2.14.3
 	github.com/HdrHistogram/hdrhistogram-go v1.1.2
 	github.com/Microsoft/go-winio v0.6.1
 	github.com/ThalesIgnite/crypto11 v1.2.5
