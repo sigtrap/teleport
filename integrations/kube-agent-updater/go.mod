@@ -10,13 +10,13 @@ require (
 	github.com/jonboulle/clockwork v0.4.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/sigstore/cosign/v2 v2.2.0
-	github.com/sigstore/sigstore v1.7.4
+	github.com/sigstore/sigstore v1.7.5
 	github.com/stretchr/testify v1.8.4
 	golang.org/x/exp v0.0.0-20230817173708-d852ddb80c63
 	golang.org/x/mod v0.13.0
 	k8s.io/api v0.28.3
 	k8s.io/apimachinery v0.28.3
-	sigs.k8s.io/controller-runtime v0.16.1
+	sigs.k8s.io/controller-runtime v0.16.3
 )
 
 require (
@@ -133,7 +133,7 @@ require (
 	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	gomodules.xyz/jsonpatch/v2 v2.4.0 // indirect
-	google.golang.org/appengine v1.6.7 // indirect
+	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/genproto v0.0.0-20230822172742-b8732ec3820d // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20230822172742-b8732ec3820d // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230822172742-b8732ec3820d // indirect
@@ -144,9 +144,9 @@ require (
 	gopkg.in/square/go-jose.v2 v2.6.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	k8s.io/apiextensions-apiserver v0.28.0 // indirect
-	k8s.io/client-go v0.28.1 // indirect
-	k8s.io/component-base v0.28.1 // indirect
+	k8s.io/apiextensions-apiserver v0.28.3 // indirect
+	k8s.io/client-go v0.28.3 // indirect
+	k8s.io/component-base v0.28.3 // indirect
 	k8s.io/klog/v2 v2.100.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20230816210353-14e408962443 // indirect
 	k8s.io/utils v0.0.0-20230726121419-3b25d923346b // indirect
