@@ -7,7 +7,7 @@ toolchain go1.21.3
 require (
 	cloud.google.com/go/compute v1.23.2
 	cloud.google.com/go/compute/metadata v0.2.3
-	cloud.google.com/go/container v1.26.2
+	cloud.google.com/go/container v1.27.0
 	cloud.google.com/go/firestore v1.14.0
 	cloud.google.com/go/iam v1.1.4
 	cloud.google.com/go/kms v1.15.4
