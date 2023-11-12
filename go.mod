@@ -85,7 +85,7 @@ require (
 	github.com/gogo/protobuf v1.3.2 // replaced
 	github.com/golang-jwt/jwt/v4 v4.5.0
 	github.com/google/btree v1.1.2
-	github.com/google/go-attestation v0.5.0
+	github.com/google/go-attestation v0.5.1
 	github.com/google/go-cmp v0.6.0
 	github.com/google/go-querystring v1.1.0
 	github.com/google/go-tpm-tools v0.4.2
