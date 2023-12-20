@@ -37,22 +37,22 @@ require (
 	github.com/andybalholm/brotli v1.0.6
 	github.com/aquasecurity/libbpfgo v0.5.1-libbpf-1.2
 	github.com/armon/go-radix v1.0.0
-	github.com/aws/aws-sdk-go v1.49.4
+	github.com/aws/aws-sdk-go v1.49.6
 	github.com/aws/aws-sdk-go-v2 v1.24.0
 	github.com/aws/aws-sdk-go-v2/config v1.26.1
 	github.com/aws/aws-sdk-go-v2/credentials v1.16.12
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.12.12
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.14.10
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.15.7
+	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.15.8
 	github.com/aws/aws-sdk-go-v2/service/athena v1.37.3
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.26.6
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.141.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.142.0
 	github.com/aws/aws-sdk-go-v2/service/ec2instanceconnect v1.20.5
 	github.com/aws/aws-sdk-go-v2/service/ecs v1.35.5
 	github.com/aws/aws-sdk-go-v2/service/glue v1.72.4
 	github.com/aws/aws-sdk-go-v2/service/iam v1.28.5
-	github.com/aws/aws-sdk-go-v2/service/rds v1.64.6
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.47.5
+	github.com/aws/aws-sdk-go-v2/service/rds v1.65.0
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.47.6
 	github.com/aws/aws-sdk-go-v2/service/sns v1.26.5
 	github.com/aws/aws-sdk-go-v2/service/sqs v1.29.5
 	github.com/aws/aws-sdk-go-v2/service/sts v1.26.5
@@ -61,8 +61,8 @@ require (
 	github.com/beevik/etree v1.2.0
 	github.com/bufbuild/connect-go v1.10.0
 	github.com/buildkite/bintest/v3 v3.2.0
-	github.com/charmbracelet/bubbles v0.16.1
-	github.com/charmbracelet/bubbletea v0.24.2
+	github.com/charmbracelet/bubbles v0.17.1
+	github.com/charmbracelet/bubbletea v0.25.0
 	github.com/charmbracelet/lipgloss v0.9.1
 	github.com/coreos/go-oidc v2.2.1+incompatible // replaced
 	github.com/coreos/go-semver v0.3.1
@@ -75,7 +75,7 @@ require (
 	github.com/elastic/go-elasticsearch/v8 v8.11.1
 	github.com/flynn/hid v0.0.0-20190502022136-f1b9b6cc019a
 	github.com/flynn/u2f v0.0.0-20180613185708-15554eb68e5d
-	github.com/fsouza/fake-gcs-server v1.47.6
+	github.com/fsouza/fake-gcs-server v1.47.7
 	github.com/fxamacker/cbor/v2 v2.5.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/gizak/termui/v3 v3.1.0
@@ -187,7 +187,7 @@ require (
 	golang.org/x/time v0.5.0
 	google.golang.org/api v0.154.0
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20231127180814-3a041ad873d4
-	google.golang.org/grpc v1.60.0
+	google.golang.org/grpc v1.60.1
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.3.0
 	google.golang.org/protobuf v1.31.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
@@ -205,7 +205,7 @@ require (
 	k8s.io/component-base v0.29.0
 	k8s.io/klog/v2 v2.110.1
 	k8s.io/kubectl v0.29.0
-	sigs.k8s.io/controller-runtime v0.16.1
+	sigs.k8s.io/controller-runtime v0.16.3
 	sigs.k8s.io/controller-tools v0.13.0
 	sigs.k8s.io/yaml v1.4.0
 	software.sslmate.com/src/go-pkcs12 v0.4.0
@@ -324,7 +324,7 @@ require (
 	github.com/google/renameio/v2 v2.0.0 // indirect
 	github.com/google/s2a-go v0.1.7 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.3.2 // indirect
-	github.com/gorilla/handlers v1.5.1 // indirect
+	github.com/gorilla/handlers v1.5.2 // indirect
 	github.com/gorilla/mux v1.8.1 // indirect
 	github.com/gregjones/httpcache v0.0.0-20180305231024-9cad4c3443a7 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware/v2 v2.0.0-rc.2.0.20220308023801-e4a6915ea237 // indirect
@@ -354,8 +354,8 @@ require (
 	github.com/joshlf/testutil v0.0.0-20170608050642-b5d8aa79d93d // indirect
 	github.com/kelseyhightower/envconfig v1.4.0 // indirect
 	github.com/klauspost/asmfmt v1.3.2 // indirect
-	github.com/klauspost/compress v1.17.3 // indirect
-	github.com/klauspost/cpuid/v2 v2.2.5 // indirect
+	github.com/klauspost/compress v1.17.4 // indirect
+	github.com/klauspost/cpuid/v2 v2.2.6 // indirect
 	github.com/kr/fs v0.1.0 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
