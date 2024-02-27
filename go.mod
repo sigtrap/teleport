@@ -7,7 +7,7 @@ toolchain go1.22.0
 require (
 	cloud.google.com/go/compute v1.24.0
 	cloud.google.com/go/compute/metadata v0.2.3
-	cloud.google.com/go/container v1.31.0
+	cloud.google.com/go/container v1.32.0
 	cloud.google.com/go/firestore v1.14.0
 	cloud.google.com/go/iam v1.1.6
 	cloud.google.com/go/kms v1.15.7
@@ -53,7 +53,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/eks v1.40.1
 	github.com/aws/aws-sdk-go-v2/service/glue v1.77.1
 	github.com/aws/aws-sdk-go-v2/service/iam v1.31.1
-	github.com/aws/aws-sdk-go-v2/service/rds v1.73.0
+	github.com/aws/aws-sdk-go-v2/service/rds v1.74.0
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.51.1
 	github.com/aws/aws-sdk-go-v2/service/sns v1.29.1
 	github.com/aws/aws-sdk-go-v2/service/sqs v1.31.1
@@ -149,7 +149,7 @@ require (
 	github.com/pquerna/otp v1.4.0
 	github.com/prometheus/client_golang v1.18.0
 	github.com/prometheus/client_model v0.6.0
-	github.com/prometheus/common v0.45.0
+	github.com/prometheus/common v0.48.0
 	github.com/redis/go-redis/v9 v9.3.0 // replaced
 	github.com/russellhaering/gosaml2 v0.9.1
 	github.com/russellhaering/goxmldsig v1.4.0
@@ -170,7 +170,7 @@ require (
 	github.com/vulcand/predicate v1.2.0 // replaced
 	go.etcd.io/etcd/api/v3 v3.5.12
 	go.etcd.io/etcd/client/v3 v3.5.12
-	go.mongodb.org/mongo-driver v1.13.1
+	go.mongodb.org/mongo-driver v1.14.0
 	go.opentelemetry.io/contrib/instrumentation/github.com/aws/aws-sdk-go-v2/otelaws v0.49.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.49.0
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.49.0
@@ -193,7 +193,7 @@ require (
 	golang.org/x/term v0.17.0
 	golang.org/x/text v0.14.0
 	golang.org/x/time v0.5.0
-	google.golang.org/api v0.164.0
+	google.golang.org/api v0.166.0
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240221002015-b0ce06bbee7c
 	google.golang.org/grpc v1.62.0
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.3.0
@@ -403,7 +403,6 @@ require (
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
 	github.com/mattn/go-runewidth v0.0.15 // indirect
-	github.com/matttproud/golang_protobuf_extensions/v2 v2.0.0 // indirect
 	github.com/mdlayher/socket v0.4.1 // indirect
 	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
