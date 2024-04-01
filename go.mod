@@ -13,7 +13,7 @@ require (
 	cloud.google.com/go/kms v1.15.8
 	cloud.google.com/go/storage v1.40.0
 	connectrpc.com/connect v1.16.0
-	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.10.0
+	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.11.0
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.5.1
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/compute/armcompute/v3 v3.0.1
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/containerservice/armcontainerservice/v2 v2.4.0
@@ -39,7 +39,7 @@ require (
 	github.com/andybalholm/brotli v1.1.0
 	github.com/aquasecurity/libbpfgo v0.5.1-libbpf-1.2
 	github.com/armon/go-radix v1.0.0
-	github.com/aws/aws-sdk-go v1.51.11
+	github.com/aws/aws-sdk-go v1.51.12
 	github.com/aws/aws-sdk-go-v2 v1.26.1
 	github.com/aws/aws-sdk-go-v2/config v1.27.10
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.10
