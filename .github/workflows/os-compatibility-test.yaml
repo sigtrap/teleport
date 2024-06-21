@@ -53,7 +53,7 @@ jobs:
           make -j"$(nproc)" binaries FIDO2=static
 
       - name: Upload binaries
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: build
           path: ${{ github.workspace }}/build/
