@@ -14,7 +14,7 @@
     "@gravitational/design": "1.0.0",
     "@lezer/highlight": "^1.2.0",
     "@nivo/bar": "^0.87.0",
-    "@uiw/react-codemirror": "^4.22.2",
+    "@uiw/react-codemirror": "^4.23.0",
     "ace-builds": "1.35.2",
     "create-react-class": "^15.6.3",
     "date-fns": "^2.28.0",
