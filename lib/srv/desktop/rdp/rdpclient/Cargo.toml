@@ -37,7 +37,7 @@ sspi = { version = "0.15.0", features = ["network_client"] }
 tokio = { version = "1.43", features = ["full"] }
 tokio-boring = { git = "https://github.com/gravitational/boring", rev = "99897308abb5976ea05625b8314c24b16eebb01b", optional = true }
 utf16string = "0.2.0"
-uuid = { version = "1.12.0", features = ["v4"] }
+uuid = { version = "1.12.1", features = ["v4"] }
 url = "2.5.4"
 picky = { version = "7.0.0-rc.11", default-features = false }
 picky-asn1-der = "0.5.2"
